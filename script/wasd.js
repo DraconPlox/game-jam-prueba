@@ -1,6 +1,3 @@
-let a = 50
-
-console.log (`Tengo ${a} platanos`)
 
 let array = ["hola", 50, "a"]
 
